@@ -1,0 +1,144 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{background-image:url(mid/hero-bg.jpg) ;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: #f0b9ce; 
+}
+
+#welcome{
+    height: 40px;
+    width: 190px;
+    color: #f7f2f2;
+    border-radius: 20px;
+    background-color: #ffffff66;
+    margin-left: 40%;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+#werecreating{
+    padding-left: 30%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+}
+#p1{
+    padding-left: 380px;
+    word-spacing: 3px;
+    color: #fff;
+}
+#getstarted{
+    height: 40px;
+    width: 150px;
+    border-color: #fff;
+    color: #fff;
+    border-radius: 20px;
+    background-color: #ffffff00;
+    margin-left: 580px;
+    margin-top: 40px; 
+    margin-bottom: 100px; 
+}
+#header1 {
+    height: 300px;
+    width: 100%;
+    background-size: cover; 
+    display: flex;
+    flex-direction: column;
+}
+h3{
+    padding-bottom: 10px;
+}
+
+#nav{
+    align-content: space-between;
+    text-align: right;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding-right: 80px;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 15px;
+}
+nav a:hover{
+    border-bottom: 2px solid red;
+}
+select{
+border: none;
+background-color: rgba(255, 255, 255, 0);
+color: #fff;
+}
+#tempo{
+    padding-left: 10px;
+    padding-top: 10px;
+    font-weight: 200;
+    font-size: larger;
+    color: #fff;
+}
+#services{
+    height: 40px;
+    width: 120px;
+    border: 0px solid rgba(135, 19, 19, 0.603);
+    color: rgb(138, 36, 36);
+    background-color: rgba(235, 147, 147, 0.342);
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-top: 10px;
+    margin: 80px;
+    margin-top: 140px;
+    margin-left: 43%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 1px;
+margin-bottom: 15px;    
+}
+h3{
+    padding-left: 39%;
+}
+span{
+    color: rgb(163, 41, 41);
+    word-spacing: 4px;
+}
+p{
+    padding-left: 30%;
+}
+#d1{
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+    width: 100%;
+    background-color: #fff;
+    padding-top: 40px;
+    text-align: center;
+    justify-content: space-evenly;
+}
+.d1ch{
+    height: 250px;
+    width: 250px;
+    background-color: #fff;
+    line-height: 27px;
+    border: 2px solid gray;
+    padding-right: 70px;
+    padding-top: 80px;
+}
+#Portfolio{
+    height: 40px;
+    width: 110px;
+    color: #934966;
+    background-color: #f0b9cec4;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left: 26px;
+    margin-left: 45%;
+
+}
